@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    text-align: center;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+    padding: 50px;
+    background: #007bff;
+    color: white;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    background: #ffcc00;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #ffaa00;
+}
+
+#features {
+    padding: 30px;
+    background: white;
+}
+
+footer {
+    padding: 20px;
+    background: #222;
+    color: white;
+    margin-top: 20px;
+}
